@@ -1,4 +1,3 @@
-testRealm = true
 function main(){
 
     //IndexedDB code from Willard
@@ -2428,7 +2427,7 @@ function BeeSwarmSimulator(DATA){
             }
         }
     }
-    
+    testRealm = true
     if(testRealm){
 
         triggers.become_attack_hive={
