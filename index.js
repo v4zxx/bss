@@ -1,3 +1,4 @@
+testRealm = true
 function main(){
 
     //IndexedDB code from Willard
